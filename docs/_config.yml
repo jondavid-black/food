@@ -1,11 +1,11 @@
 # Site
-name: "Food - My Favorite Recipes - Name"
+name: "Food"
 title: "Food - My Favorite Recipes"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A collection of my favorite recipes."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://jondavid-black.github.io/food/
-google_analytics: 'UA-46278016-1'
+google_analytics: '257011425'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
