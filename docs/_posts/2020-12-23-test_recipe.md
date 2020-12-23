@@ -2,7 +2,8 @@
 layout: post
 title:  "Boiled Water"
 author: JD Black
-categories: [ Appetizer, American ]
+categories: [Appetizer]
+styles: [American]
 image: assets/images/12.jpg
 featured: true
 hidden: false

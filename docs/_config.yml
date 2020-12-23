@@ -2,8 +2,8 @@
 name: "Food"
 title: "Food - My Favorite Recipes"
 description: "A collection of my favorite recipes."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/logo.svg'
 baseurl: https://jondavid-black.github.io/food/
 google_analytics: '257011425'
 disqus: 'demowebsite'
