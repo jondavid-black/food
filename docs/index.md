@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Food - A Collection of my Favorite Recipes
 
 You can use the [editor on GitHub](https://github.com/jondavid-black/food/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
