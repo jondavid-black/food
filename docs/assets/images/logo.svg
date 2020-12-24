@@ -12,9 +12,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 25 25"
-   height="25mm"
-   width="25mm">
+   viewBox="0 0 20 20"
+   height="20mm"
+   width="20mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -49,11 +49,11 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="trace"
+     inkscape:label="base"
      id="layer2"
      inkscape:groupmode="layer">
     <g
-       transform="matrix(0.13846684,0,0,0.12049516,-3.2169275,-5.0413714)"
+       transform="matrix(0.11018287,0,0,0.09647914,-2.6756819,-4.139428)"
        id="g896">
       <circle
          id="path848"
