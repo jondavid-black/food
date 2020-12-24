@@ -1,7 +1,7 @@
 # Site
-name: "Food"
-title: "Food - My Favorite Recipes"
-description: "A collection of my favorite recipes."
+name: "Git Food"
+title: "Git Food - Exquisitely Managed Recipes"
+description: "A free and open source collection of my favorite recipes."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 baseurl: https://jondavid-black.github.io/food/
