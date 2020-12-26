@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=2, shrink-to-fit=no">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
@@ -68,8 +68,40 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">All Recipes</a>
                 </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#Appetizer">Appetizers</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#MainDish">Main Dishes</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#SideDish">Side Dishes</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#Dessert">Deserts</a>
+                </li>
+
+            <!--
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#Bread">Breads</a>
+                </li>
+            -->
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/categories#Other">Others</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/tags">Tags</a>
+                </li>
+
+<!--
 
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
@@ -78,7 +110,7 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
                 </li>
-<!--
+
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
                 </li>
@@ -118,6 +150,14 @@ ga('send', 'pageview');
     </p>
 </div>
 
+<!-- Content
+================================================== --> 
+<div class="main-content">
+    {{ content }}
+</div>
+
+
+
 <!-- Categories Jumbotron
 ================================================== -->
 <div class="jumbotron fortags">
@@ -144,15 +184,36 @@ ga('send', 'pageview');
 	</div>
 </div>
 
-<!-- Content
+<!-- Tags Jumbotron
 ================================================== -->
-<div class="main-content">
-    {{ content }}
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Recipe Tags <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+            {% assign tags_list = site.tags %}
+            {% if tags_list.first[0] == null %}
+                {% for tag in tags_list %}
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/tags#{{ tag | url_escape | strip | replace: ' ', '-' }}">{{ tag | camelcase }} ({{ site.tags[category].size }})</a>
+                {% endfor %}
+            {% else %}
+                {% for tag in tags_list %}
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] | camelcase }} ({{ tag[1].size }})</a>
+                {% endfor %}
+            {% endif %}
+            {% assign tags_list = nil %}
+            <br><br><br>
+		</div>
+	</div>
 </div>
 
+<!--
 {% if site.mailchimp-list %}
-<!-- Bottom Alert Bar
-================================================== -->
+ Bottom Alert Bar
+================================================== 
 <div class="alertbar">
 	<div class="container text-center">
 		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
@@ -167,6 +228,7 @@ ga('send', 'pageview');
 {% endif %}
     
 </div>
+-->
 
 <!-- Begin Footer
 ================================================== -->

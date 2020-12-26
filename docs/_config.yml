@@ -1,10 +1,10 @@
 # Site
 name: "Git Food"
 title: "Git Food - Exquisitely Managed Recipes"
-description: "A free and open source collection of my favorite recipes."
+description: "A free and open source collection of my favorite recipes.  Contribute your favorite recipes on <a href='https://github.com/jondavid-black/food' target='_blank'> GitHub.</a>"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
-baseurl: https://jondavid-black.github.io/food/
+baseurl:  # https://jondavid-black.github.io/food/
 google_analytics: '257011425'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
