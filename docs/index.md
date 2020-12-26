@@ -1,37 +1,4 @@
-## Food - A Collection of my Favorite Recipes
+## What is Git Food?
 
-You can use the [editor on GitHub](https://github.com/jondavid-black/food/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Git Food is a simple, clean collection of recipes that I've been tracking in cabinets, note cards, or scattered documents for years.  I needed to get things a bit more organized and controlled, and as a Software Engineer I knew I had the tools to do it.  Git Food is an organized collection of recipes, captured in Markdown, and automatically presented online using Jekyll and GitHub Pages.  Enough of the nerdy stuff...use the categories at the top of the page or the links below to find something delicious!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jondavid-black/food/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
