@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-It was always a special treat to have chicken & dumplings when we’d go visit Nana.  This recipe is what Alton Brown would call “slickers” and I think it’s the way to go, but I’m not opposed to “floaters” either since that’s what my Granny made and they were great too but I don’t have that recipe.  You will need a good bit of space on the counter to do this right, and be sure to flour the work space enough to prevent the dough from sticking or you’ll end up with a bit of a mess.  You can speed this up using a pressure cooker, but the last time I made it was just on the stove and ended up with a great broth and dumplings that everyone really enjoyed.
+It was always a special treat to have chicken & dumplings when we'd go visit Nana.  This recipe is what Alton Brown would call "slickers" and I think it's the way to go, but I'm not opposed to "floaters" either since that's what my Granny made and they were great too but I don't have that recipe.  You will need a good bit of space on the counter to do this right, and be sure to flour the work space enough to prevent the dough from sticking or you'll end up with a bit of a mess.  You can speed this up using a pressure cooker, but the last time I made it was just on the stove and ended up with a great broth and dumplings that everyone really enjoyed.
 
 ## Ingredients
 - 1 whole chicken

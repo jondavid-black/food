@@ -24,10 +24,10 @@ This recipe comes from the Southern Living Christmas Cook Book that my Nana gave
 - 1 green onion, chopped
 
 ### Royal Butter
-- ½ cup butter, softened
+- 1/2 cup butter, softened
 - 1 (8 oz) pkg cream cheese, softened
-- ¼ cup mayonnaise
-- ¼ cup prepared horseradish, drained
+- 1/4 cup mayonnaise
+- 1/4 cup prepared horseradish, drained
 
 ## Instructions
 1. Combine marinade ingredients and stir well.

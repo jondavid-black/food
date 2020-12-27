@@ -14,10 +14,10 @@ This is one of our favorite snacks.  It's rich, creamy, and has a little bit of 
 ## Ingredients
 - 2 cups grated extra sharp cheddar cheese
 - 8 oz cream cheese
-- ½ cup mayonnaise
-- ¼ tsp garlic powder
-- ¼ tsp cayenne pepper
-- ¼ tsp onion powder
+- 1/2 cup mayonnaise
+- 1/4 tsp garlic powder
+- 1/4 tsp cayenne pepper
+- 1/4 tsp onion powder
 - 8-12 jalapeno slices, chopped (to taste)
 - 4 oz diced pimento, drained
 - salt and pepper (to taste)

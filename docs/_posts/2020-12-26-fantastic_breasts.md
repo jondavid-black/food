@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-This is easily one of my favorite chicken dish.  It is actually the first thing I ever cooked for April when we were dating (before I realized she was a bit picky about her meat selections).  I think this may be one of the first recipes my Mom taught me to cook.  Honestly, it is just an adaptation of chicken and rice, but who doesn’t love chicken and rice?  If you really want to crank up the flavor, double the bacon!
+This is easily one of my favorite chicken dish.  It is actually the first thing I ever cooked for April when we were dating (before I realized she was a bit picky about her meat selections).  I think this may be one of the first recipes my Mom taught me to cook.  Honestly, it is just an adaptation of chicken and rice, but who doesn't love chicken and rice?  If you really want to crank up the flavor, double the bacon!
 
 ## Ingredients
 - 4 boneless skinless chicken breasts

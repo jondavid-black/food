@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-Although I say I’m not a big dessert person, green stuff is the exception to that particular rule.  I’m sure this recipe has a real name, but I couldn’t tell you what it is.  I’ve been enjoying Green Stuff since my childhood and I can always count on Mom to bring some for our holiday meals.  Personally I like it better without nuts, but it is clear I am in the minority on this count.  Green Stuff is a light, fluffy, bright green addition to any holiday table.  I’m sure you will enjoy it as much as I do.
+Although I say I'm not a big dessert person, green stuff is the exception to that particular rule.  I'm sure this recipe has a real name, but I couldn't tell you what it is.  I've been enjoying Green Stuff since my childhood and I can always count on Mom to bring some for our holiday meals.  Personally I like it better without nuts, but it is clear I am in the minority on this count.  Green Stuff is a light, fluffy, bright green addition to any holiday table.  I'm sure you will enjoy it as much as I do.
 
 ## Ingredients
 - 1 large pkg Cool Whip

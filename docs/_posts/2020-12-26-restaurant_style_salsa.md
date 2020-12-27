@@ -15,19 +15,19 @@ Originally taken from the food network, we have managed to adjust this salsa rec
 ### Base Salsa
 - 1 28oz can whole peeled tomatoes
 - 2 cans Rotel
-- ½ white onion, chopped
-- ½ cup fresh cilantro leaves
+- 1/2 white onion, chopped
+- 1/2 cup fresh cilantro leaves
 - 1 clove garlic
-- ½ tsp ground cumin
+- 1/2 tsp ground cumin
 - Salt to taste
 - Sugar to taste
 - Juice of 1/2 lime
 
 ### Fresh & Crisp Additions
 - 2-3 cloves garlic
-- ½ cup fresh cilantro leaves
+- 1/2 cup fresh cilantro leaves
 - 1 jalapeno, sliced
-- Juice of ½ lime
+- Juice of 1/2 lime
 
 ### Smoky Chipotle Additions
 - 2 chipotle peppers in adobo, or 3 if you want more heat (do not use the whole can)

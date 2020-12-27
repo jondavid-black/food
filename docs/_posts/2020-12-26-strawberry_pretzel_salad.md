@@ -9,13 +9,13 @@ featured: false
 hidden: false
 ---
 
-Another amazing dessert, and I’m really not a big dessert person.  We don’t do this very often, but it is always a hit when we do.  Usually someone else, like Mom (thanks!), makes it and brings it to our big family meals and it is always a hit.  I hope you enjoy it as much as we do.  If you are a fan of strawberries, I don’t see how you wouldn’t.
+Another amazing dessert, and I'm really not a big dessert person.  We don't do this very often, but it is always a hit when we do.  Usually someone else, like Mom (thanks!), makes it and brings it to our big family meals and it is always a hit.  I hope you enjoy it as much as we do.  If you are a fan of strawberries, I don't see how you wouldn't.
 
 ## Ingredients
 - Crust
-    - 1 ½ cups pretzels, crushed
-    - 4 ½ Tbsp white sugar
-    - ¾ cup butter, melted
+    - 1 1/2 cups pretzels, crushed
+    - 4 1/2 Tbsp white sugar
+    - 3/4 cup butter, melted
 - 1 cup white sugar
 - 2 (8 oz) pkg cream cheese
 - 1 (8 oz) pkg Cool Whip topping, thawed

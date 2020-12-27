@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-This was the first recipe in my original 2008 recipe book because it is a long-standing family favorite, especially during the holidays.  Although my aunt says I should claim it as my own now, she provided the original recipe years ago and we’ve enjoyed it every year since.  The only real change I’ve made is to use more vegetables.  I hope you enjoy it as much as we do.  
+This was the first recipe in my original 2008 recipe book because it is a long-standing family favorite, especially during the holidays.  Although my aunt says I should claim it as my own now, she provided the original recipe years ago and we've enjoyed it every year since.  The only real change I've made is to use more vegetables.  I hope you enjoy it as much as we do.  
 
 ## Ingredients
 - 2 cups Martha White cornbread mix
@@ -28,7 +28,7 @@ This was the first recipe in my original 2008 recipe book because it is a long-s
 ## Instructions
 1. Make the cornbread by following the instructions on the package.  Set aside to cool.
 1. Simmer the turkey neck and giblets in chicken broth until fully cooked, about 90 minutes.  Reserve the broth for later.
-1. Dice the onion, bell peppers, and celery.  Place in a large skillet.  Slice up the stick of butter and sauté vegetables until soft, 60-90 minutes.
+1. Dice the onion, bell peppers, and celery.  Place in a large skillet.  Slice up the stick of butter and saute vegetables until soft, 60-90 minutes.
 1. Crumble the cornbread into a large bowl and mix in the Pepperidge Farm dressing.
 1. Add the reserved broth from step 2.  Add chicken broth as needed to make the mixture moist, but not soupy.
 1. Grease a large glass baking dish and add the mixture.

@@ -9,12 +9,12 @@ featured: false
 hidden: false
 ---
 
-We’ve been enjoying crawfish etouffee on special occasions for years.  We are strongly in the camp who believe an etouffee is not a tomato based red sauce.  You can boil and peel your own crawfish tails for the best results, but it is much easier to buy them frozen at the grocery.  Look for Louisiana tails for the best quality, but Spain produces good crawfish too.  Be sure to get some good French bread and toast it up with a little butter to really complete the dish.
+We've been enjoying crawfish etouffee on special occasions for years.  We are strongly in the camp who believe an etouffee is not a tomato based red sauce.  You can boil and peel your own crawfish tails for the best results, but it is much easier to buy them frozen at the grocery.  Look for Louisiana tails for the best quality, but Spain produces good crawfish too.  Be sure to get some good French bread and toast it up with a little butter to really complete the dish.
 
 ## Ingredients
-- ½ cup bacon grease
-- ½ cup flour
-- ½ cup butter
+- 1/2 cup bacon grease
+- 1/2 cup flour
+- 1/2 cup butter
 - 2 large white onion, chopped
 - 1 green bell pepper, chopped
 - 4 stalks celery, sliced thin

@@ -23,7 +23,7 @@ We started adapting this recipe at our Cajun Christmas party a few years ago...a
 - Kosher salt
 - Dash cayenne
 - 3 bay leaves
-- ½ cup fresh chopped parsley
+- 1/2 cup fresh chopped parsley
 - 3/4 package fresh thyme
 - 2 lb smoked sausage
 - 6 cloves chopped garlic

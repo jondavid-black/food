@@ -9,15 +9,15 @@ featured: false
 hidden: false
 ---
 
-April found this double layer pumpkin cheesecake recipe a few years ago and made it as a special treat for me. It’s a beautiful marriage of pie royalty…what could be better? If you’re ever coming over and wondering what desert to bring, this is it! Makes 1 pie…serves 1 if I’m around.  May start fights among me and the boys!
+April found this double layer pumpkin cheesecake recipe a few years ago and made it as a special treat for me. It's a beautiful marriage of pie royalty...what could be better? If you're ever coming over and wondering what desert to bring, this is it! Makes 1 pie...serves 1 if I'm around.  May start fights among me and the boys!
 
 ## Ingredients
 - 2 packages (8 oz each) Philadelphia cream cheese, softened
-- ½ cup sugar
-- ½ teaspoon vanilla
+- 1/2 cup sugar
+- 1/2 teaspoon vanilla
 - 2 eggs
-- ½ cup canned pumpkin
-- ½ teaspoon ground cinnamon
+- 1/2 cup canned pumpkin
+- 1/2 teaspoon ground cinnamon
 - Dash of ground cloves
 - Dash of nutmeg
 - 1 (6 oz or 9 inch) ready to use graham cracker crumb crust

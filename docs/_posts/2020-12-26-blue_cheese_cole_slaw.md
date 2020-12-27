@@ -9,11 +9,11 @@ featured: false
 hidden: false
 ---
 
-We got this recipe from some of our friends when we lived in Colorado Springs. It’s a really nice and flavorful alternative slaw when having a barbecue. This goes great with pulled pork, ribs, or smoked pork tenderloin. Unfortunately this dish doesn’t have a long shelf life so don’t plan on more than a day of leftovers. This is enough to serve 6 people.
+We got this recipe from some of our friends when we lived in Colorado Springs. It's a really nice and flavorful alternative slaw when having a barbecue. This goes great with pulled pork, ribs, or smoked pork tenderloin. Unfortunately this dish doesn't have a long shelf life so don't plan on more than a day of leftovers. This is enough to serve 6 people.
 
 ## Ingredients
-- ½ cup blue cheese, crumbled
-- ½ cup buttermilk
+- 1/2 cup blue cheese, crumbled
+- 1/2 cup buttermilk
 - 3 tablespoons apple cider vinegar
 - 2 tablespoons sugar
 - 12 cups shredded green cabbage (about 1 large head)

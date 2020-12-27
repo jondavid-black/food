@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-This is an old standard but I really like it so I threw it in here. I actually got hooked on this stuff while working out in Colorado Springs…the office catering/cafeteria made this regularly. This is a great option if you need to bring a vegetable to a potluck. I found this particular recipe out on the internet somewhere, but unfortunately don’t remember the details. This serves 4 to 6 people.
+This is an old standard but I really like it so I threw it in here. I actually got hooked on this stuff while working out in Colorado Springs...the office catering/cafeteria made this regularly. This is a great option if you need to bring a vegetable to a potluck. I found this particular recipe out on the internet somewhere, but unfortunately don't remember the details. This serves 4 to 6 people.
 
 ## Ingredients
 - 4 cups fresh broccoli florets

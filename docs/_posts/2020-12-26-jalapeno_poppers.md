@@ -9,16 +9,16 @@ featured: false
 hidden: false
 ---
 
-It’s always fun to go through stacks of recipes and discover things you’ve overlooked for too long.  If you don’t already know, by the time you flip through this recipe collection, we like a little heat so I think this one is right in our sweet spot.  Now that I’ve rediscovered this one, I expect next football season will see a regular occurrence of these poppers.
+It's always fun to go through stacks of recipes and discover things you've overlooked for too long.  If you don't already know, by the time you flip through this recipe collection, we like a little heat so I think this one is right in our sweet spot.  Now that I've rediscovered this one, I expect next football season will see a regular occurrence of these poppers.
 
 ## Ingredients
 - 2 links Mexican chorizo, casings removed
-- ½ lb smoked gouda, grated fine
-- ¼ cup red onion, chopped fine
+- 1/2 lb smoked gouda, grated fine
+- 1/4 cup red onion, chopped fine
 - 1 egg
-- ½ cup cream cheese
+- 1/2 cup cream cheese
 - 3 Tbsp sour cream
-- 1 Tbsp Frank’s Red Hot sauce
+- 1 Tbsp Frank's Red Hot sauce
 - Salt to taste
 - Black pepper, fresh ground, to taste
 - 12 large jalapeno peppers, stemmed, seeded, and halved

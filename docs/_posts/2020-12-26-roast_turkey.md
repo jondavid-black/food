@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-This is a recipe I adapted from Alton Brown, my favorite celebrity chef.  We really like the flavor added by the Cajun injector, but you can leave that out if you want a more traditional turkey dinner.  We’ve been doing this for years and it always turns out great.  Of course this is our go to recipe for when family gets together over Thanksgiving.  Pair this with Holiday Dressing from this recipe collection and a homemade gravy using the turkey drippings for a feast that will make you the designated cook for years to come.
+This is a recipe I adapted from Alton Brown, my favorite celebrity chef.  We really like the flavor added by the Cajun injector, but you can leave that out if you want a more traditional turkey dinner.  We've been doing this for years and it always turns out great.  Of course this is our go to recipe for when family gets together over Thanksgiving.  Pair this with Holiday Dressing from this recipe collection and a homemade gravy using the turkey drippings for a feast that will make you the designated cook for years to come.
 
 ## Ingredients
 - 1 (14-16 lb) turkey
@@ -19,11 +19,11 @@ This is a recipe I adapted from Alton Brown, my favorite celebrity chef.  We rea
 
 ### Brine
 - 1 cup kosher salt
-- ½ cup light brown sugar
+- 1/2 cup light brown sugar
 - 1 gallon vegetable stock
 - 1 Tbsp black peppercorns
-- 1 ½ tsp allspice berries
-- 1 ½ tsp chopped candied ginger
+- 1 1/2 tsp allspice berries
+- 1 1/2 tsp chopped candied ginger
 - 1 gallon heavily iced water
 
 ### Aromatics

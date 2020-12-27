@@ -9,24 +9,24 @@ featured: false
 hidden: false
 ---
 
-We discovered this recipe on a beach vacation to the Florida Gulf Coast.  It comes from The Great Southern restaurant in Seaside and was so good we had to buy the cook book.  This one is so good as is, we’ve not made any adjustments to it over the years.  It’s become a staple of our Christmas parties and always pleases a crowd (you can double it easily).  You can divide the YaYa before adding the shrimp and do half chicken and half shrimp if some people don’t like shrimp.
+We discovered this recipe on a beach vacation to the Florida Gulf Coast.  It comes from The Great Southern restaurant in Seaside and was so good we had to buy the cook book.  This one is so good as is, we've not made any adjustments to it over the years.  It's become a staple of our Christmas parties and always pleases a crowd (you can double it easily).  You can divide the YaYa before adding the shrimp and do half chicken and half shrimp if some people don't like shrimp.
 
 ## Ingredients
 - Smoked Gouda Cheese Grits
     - 1 qt chicken stock
     - 1 cup heavy cream
     - 2 cups grits
-    - ¼ lb butter
+    - 1/4 lb butter
     - 1 can creamed corn
-    - ½ lb shredded smoked gouda
+    - 1/2 lb shredded smoked gouda
 - The YaYa
     - 8 strips smoked bacon, diced
     - 1 Tbsp garlic, minced
     - 1 Tbsp shallots, minced
     - 3 Tbsp butter
-    - ½ cup white wine
+    - 1/2 cup white wine
     - 1 lb peeled deveined jumbo shrimp
-    - ¼ cup diced green onions
+    - 1/4 cup diced green onions
     - 2 cups chopped fresh spinach
     - 2 cups heavy cream
 

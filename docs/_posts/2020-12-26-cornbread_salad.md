@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-This recipe showed up at the rehearsal dinner for April’s and my wedding almost 20 years ago now. It’s one of those dishes that takes some faith to try but once you do you’ll be hooked. It’s also a nice alternative to consider for potluck dinners lacking in vegetable dishes. This serves 6 to 8 people.  
+This recipe showed up at the rehearsal dinner for April's and my wedding almost 20 years ago now. It's one of those dishes that takes some faith to try but once you do you'll be hooked. It's also a nice alternative to consider for potluck dinners lacking in vegetable dishes. This serves 6 to 8 people.  
 
 ## Ingredients
 - 2 cups Martha White cornbread mix
@@ -18,10 +18,10 @@ This recipe showed up at the rehearsal dinner for April’s and my wedding almos
 - 1/4 cup vegetable oil
 - 1 finely chopped bell pepper
 - 1 finely chopped white onion
-- 1 finely chopped tomato (or about ½ can well drained can diced tomatoes)
-- ½ cup whole kernel corn drained
-- ½ cup English peas drained
-- ½ cup sweet relish
+- 1 finely chopped tomato (or about 1/2 can well drained can diced tomatoes)
+- 1/2 cup whole kernel corn drained
+- 1/2 cup English peas drained
+- 1/2 cup sweet relish
 - 8 oz sour cream
 - Paprika
 
