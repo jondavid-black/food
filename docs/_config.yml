@@ -1,7 +1,7 @@
 # Site
 name: "Git Food"
 title: "Git Food - Exquisitely Managed Recipes"
-description: "A free and open source collection of my favorite recipes."
+description: "A free and open source collection of my favorite recipes.  Review the source or contribute on <a href='https://github.com/jondavid-black/food' target='_blank'> GitHub </a>."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 baseurl:  # https://jondavid-black.github.io/food/
