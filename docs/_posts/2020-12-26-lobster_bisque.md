@@ -3,7 +3,7 @@ layout: post
 title:  "Lobster Bisque"
 author: JD Black
 categories: [MainDish]
-tags: [American]
+tags: [American, Seafood]
 # image: assets/images/12.jpg
 featured: false
 hidden: false
