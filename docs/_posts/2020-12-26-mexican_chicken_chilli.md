@@ -3,7 +3,7 @@ layout: post
 title:  "Mexican Chicken Chilli"
 author: JD Black
 categories: [MainDish]
-tags: [Mexican]
+tags: [Mexican, Chicken]
 # image: assets/images/12.jpg
 featured: false
 hidden: false

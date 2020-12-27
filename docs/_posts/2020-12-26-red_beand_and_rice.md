@@ -3,7 +3,7 @@ layout: post
 title:  "Red Beans & Rice"
 author: JD Black
 categories: [MainDish]
-tags: [Cajun]
+tags: [Cajun, Pork]
 # image: assets/images/12.jpg
 featured: false
 hidden: false

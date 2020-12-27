@@ -3,7 +3,7 @@ layout: post
 title:  "Pepper Roast"
 author: JD Black
 categories: [MainDish]
-tags: [American]
+tags: [American, Beef]
 # image: assets/images/12.jpg
 featured: false
 hidden: false

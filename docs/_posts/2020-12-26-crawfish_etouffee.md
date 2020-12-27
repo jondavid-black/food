@@ -3,7 +3,7 @@ layout: post
 title:  "Crawfish Etouffee"
 author: JD Black
 categories: [MainDish]
-tags: [American, Cajun]
+tags: [American, Cajun, Seafood]
 # image: assets/images/12.jpg
 featured: false
 hidden: false
