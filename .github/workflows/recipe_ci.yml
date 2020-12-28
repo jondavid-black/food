@@ -25,7 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 rinohtype pyenchant
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    -name: Check for spelling errors in _posts (update src/dict.txt if needed)
+    - name: Check for spelling errors in _posts (update src/dict.txt if needed)
       run: |
         python ./src/spellchecker.py ./docs/_posts/*.md    
     - name: Lint with flake8
