@@ -23,8 +23,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install flake8 rinohtype
+        pip install flake8 rinohtype pyenchant
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    -name: Check for spelling errors in _posts (update src/dict.txt if needed)
+      run: |
+        python ./src/spellchecker.py ./docs/_posts/*.md    
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
@@ -34,6 +37,9 @@ jobs:
     - name: Generate combined cook book markdown
       run: |
         python ./src/gitfood.py toc.csv > GitFood.md
-    - name: Generage cook book PDF
+    - name: Check for spelling errors in combined GitFood.md (update src/dict.txt if needed)
+      run: |
+        python ./src/spellchecker.py ./GitFood.md
+    - name: Generage cook book PDF (this takes a little time)
       run: |
         rinoh GitFood.md

@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-April originally came across this basic recipe a few years ago.  It started out as Pesto Pita Pizza which you'll recognize if you have the older version of my cook book.  The only difference is using pita bread as the crust instead of Nan.  As the boys got bigger, and ate more and more, we were making multiple pita pizzas for them.  During this time I discovered the magic that is Halal Kababs and the Nan bread that comes with them.  When I saw Nan in the grocery store, it was an obvious next step.  I hope you enjoy it as much as us!
+April originally came across this basic recipe a few years ago.  It started out as Pesto Pita Pizza which you'll recognize if you have the older version of my cook book.  The only difference is using pita bread as the crust instead of Nan.  As the boys got bigger, and ate more and more, we were making multiple pita pizzas for them.  During this time I discovered the magic that is Halal Kebabs and the Nan bread that comes with them.  When I saw Nan in the grocery store, it was an obvious next step.  I hope you enjoy it as much as us!
 
 
 ## Ingredients
