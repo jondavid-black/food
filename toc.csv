@@ -1,5 +1,5 @@
 Section, Level, Title, ContentFile
-1, 1, Git Food Recipes (gitfood.org), 
+1, 1, , GitFoodTitlePage.rst 
 2, 2, Appetizers, 
 2.1, 3, Cheese Dip, docs/_posts/2020-12-26-cheese_dip.md
 2.2, 3, Pimento Cheese, docs/_posts/2020-12-27-pimento_cheese.md

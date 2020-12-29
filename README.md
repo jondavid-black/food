@@ -18,4 +18,5 @@ I've built this site using open source code contributed by others.  Here are som
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - [Jekyll](https://jekyllrb.com/)
 - [Markdown Spellchecker](https://github.com/stfc/markdown-spellchecker)
-- [Rinohtype](https://github.com/brechtm/rinohtype)
+- [M2R](https://github.com/miyakogi/m2r)
+- [ReStructuredText 2 PDF](https://github.com/rst2pdf/rst2pdf)
