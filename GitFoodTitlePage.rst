@@ -1,25 +1,8 @@
-.. section-numbering:: 
-   :depth: 2
+.. class:: none
 
-.. header:: GitFood.org
++-------------------------------------+-----------------------+-----------------------------------+
+|                                     |                       |                                   |
+| This is the left header text.       |  asdf                 |  This is the right headeer text.  |
++-------------------------------------+-----------------------+-----------------------------------+
 
-.. footer:: Page ###Page###
-
-================
-Git Food Recipes 
-================
-
-------------------------------------------
-A free, open source collection of recipes.
-------------------------------------------
-
-.. image:: docs/assets/images/logo.svg
-   :width: 750
-
-.. raw:: pdf
-   
-   PageBreak
-
-.. contents:: Table of Contents
-   :depth: 2
 
