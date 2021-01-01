@@ -38,12 +38,12 @@ jobs:
     - name: Generate combined cook book markdown
       run: |
         python ./src/gitfood.py toc.csv > GitFood.rst
-    - name: Check for spelling errors in combined GitFood.md (update src/dict.txt if needed)
+    - name: Check for spelling errors in combined GitFood.rst (update src/dict.txt if needed)
       run: |
         echo "No RST spell checking yet."
     - name: Generage cook book PDF (this takes a little time)
       run: |
-        rst2pdf GitFood.rst -s vs
+        rst2pdf GitFood.rst
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1

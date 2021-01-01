@@ -1,8 +1,19 @@
-.. class:: none
+.. header::  gitfood.org
+  
+.. sectnum::
+  :depth: 2
 
-+-------------------------------------+-----------------------+-----------------------------------+
-|                                     |                       |                                   |
-| This is the left header text.       |  asdf                 |  This is the right headeer text.  |
-+-------------------------------------+-----------------------+-----------------------------------+
+.. image:: ./docs/assets/images/cookbooktitlepage.svg
 
+.. footer:: page ###Page###
 
+.. raw:: pdf
+
+   PageBreak
+
+.. contents:: Table of Contents
+   :depth: 2
+
+.. raw:: pdf
+
+   PageBreak

@@ -37,9 +37,9 @@ jobs:
     - name: Generate combined cook book restructuredtext
       run: |
         python ./src/gitfood.py toc.csv > GitFood.rst
-    - name: Check for spelling errors in combined GitFood.md (update src/dict.txt if needed)
+    - name: Check for spelling errors in combined GitFood.rst (update src/dict.txt if needed)
       run: |
         echo "No RST spell checking yet."
     - name: Generage cook book PDF 
       run: |
-        rst2pdf GitFood.rst -s vs
+        rst2pdf GitFood.rst
