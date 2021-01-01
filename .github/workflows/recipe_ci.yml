@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install flake8 svglib m2r rst2pdf Pillow
+        pip install flake8 svglib m2r rst2pdf Pillow pyenchant
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Check for spelling errors in _posts (update src/dict.txt if needed)
       run: |
