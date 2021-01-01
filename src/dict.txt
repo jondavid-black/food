@@ -35,3 +35,9 @@ chipotle
 adobo
 Connor
 cloved
+tsp
+tbsp
+munchie
+pinot
+grigio
+deglazed
