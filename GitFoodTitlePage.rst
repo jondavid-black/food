@@ -1,11 +1,16 @@
-.. header::  gitfood.org
-  
+.. header::
+
+   `GitFood.org <http://gitfood.org/>`_
+
+.. footer::
+
+    |date| ____________________________Release X.Y.Z_____________________________page ###Page###
+
 .. sectnum::
   :depth: 2
 
-.. image:: ./docs/assets/images/cookbooktitlepage.svg
 
-.. footer:: page ###Page###
+.. image:: ./docs/assets/images/cookbooktitlepage.svg 
 
 .. raw:: pdf
 
@@ -17,3 +22,6 @@
 .. raw:: pdf
 
    PageBreak
+
+.. |date| date:: %m-%d-%Y
+ 

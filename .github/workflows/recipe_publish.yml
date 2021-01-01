@@ -37,7 +37,7 @@ jobs:
         python ./src/spellchecker.py ./docs/_posts/*.md
     - name: Generate combined cook book markdown
       run: |
-        python ./src/gitfood.py toc.csv > GitFood.rst
+        python ./src/gitfood.py toc.csv ${{ github.event.inputs.release_semver }} > GitFood.rst
     - name: Check for spelling errors in combined GitFood.rst (update src/dict.txt if needed)
       run: |
         echo "No RST spell checking yet."
