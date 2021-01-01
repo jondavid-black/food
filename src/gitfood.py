@@ -1,12 +1,16 @@
 import sys
 import csv
+from m2r import convert
 
 def processTocRow(section, level, title, content):
     #print(f'\tSection: {section} Heading Level: {level} Title: {title} Content File: {content}')
     output = ""
 
-    # Add heading
-    output += ('#' * level) + " " + title + "\n"
+    if (len(title) > 0):
+        # Add section heading
+        output += ('#' * level) + " " + title + "\n"
+
+    convertToRst = len(content) == 0 or content.endswith(".md")
 
     # Process content (if present)
     if (len(content) > 0):
@@ -28,7 +32,15 @@ def processTocRow(section, level, title, content):
         finally:
             reader.close()
 
-    print(output)
+    rst = ""
+    if (convertToRst):
+        rst = convert(output)
+    else:
+        rst = output
+
+    # add a page break    
+    rst += "\n.. raw:: pdf\n   \n   PageBreak\n"
+    print(rst)
 
 with open(sys.argv[1]) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')

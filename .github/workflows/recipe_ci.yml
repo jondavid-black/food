@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install flake8 rinohtype pyenchant
+        pip install flake8 svglib m2r rst2pdf Pillow pyenchant
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Check for spelling errors in _posts (update src/dict.txt if needed)
       run: |
@@ -34,12 +34,12 @@ jobs:
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Generate combined cook book markdown
+    - name: Generate combined cook book restructuredtext
       run: |
-        python ./src/gitfood.py toc.csv > GitFood.md
-    - name: Check for spelling errors in combined GitFood.md (update src/dict.txt if needed)
+        python ./src/gitfood.py toc.csv > GitFood.rst
+    - name: Check for spelling errors in combined GitFood.rst (update src/dict.txt if needed)
       run: |
-        python ./src/spellchecker.py ./GitFood.md
-    - name: Generage cook book PDF (this takes a little time)
+        echo "No RST spell checking yet."
+    - name: Generage cook book PDF 
       run: |
-        rinoh GitFood.md
+        rst2pdf GitFood.rst
