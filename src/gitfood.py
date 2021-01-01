@@ -1,5 +1,6 @@
 import sys
 import csv
+import argparse
 from m2r import convert
 
 def processTocRow(section, level, title, content):
@@ -40,9 +41,17 @@ def processTocRow(section, level, title, content):
 
     # add a page break    
     rst += "\n.. raw:: pdf\n   \n   PageBreak\n"
-    print(rst)
+    return rst
 
-with open(sys.argv[1]) as csv_file:
+
+parser = argparse.ArgumentParser()
+parser.add_argument("toc", help="table of contents file, in csv format")
+parser.add_argument("rel", help="document release sementic version")
+args = parser.parse_args()
+
+output = ""
+
+with open(args.toc) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -50,9 +59,9 @@ with open(sys.argv[1]) as csv_file:
             # print(f'Column names are {", ".join(row)}')
             line_count += 1
         else:
-            processTocRow(row[0].strip(), int(row[1].strip()), row[2].strip(), row[3].strip())
+            output += processTocRow(row[0].strip(), int(row[1].strip()), row[2].strip(), row[3].strip())
             line_count += 1
    # print(f'Processed {line_count} lines.')
 
-
-    
+print(output.replace("Release X.Y.Z", "Release " + args.rel))
+ 
