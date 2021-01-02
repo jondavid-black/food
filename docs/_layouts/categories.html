@@ -20,7 +20,7 @@ permalink: "/categories.html"
 {% endfor %}
 
 <div class="section-title col-md-12 mt-4">
-    <h2 id="Appetizer">Appetizers</h2>
+    <h2 id="Appetizer">Appetizers ({{ appitizer_pages.size }})</h2>
 </div>
 {% for post in appitizer_pages %}
 {% if post.title != null %}
@@ -31,7 +31,7 @@ permalink: "/categories.html"
 {% endfor %}
 
 <div class="section-title col-md-12 mt-4">
-    <h2 id="MainDish">Main Dishes</h2>
+    <h2 id="MainDish">Main Dishes ({{ main_pages.size }})</h2>
 </div>
 {% for post in main_pages %}
 {% if post.title != null %}
@@ -42,7 +42,7 @@ permalink: "/categories.html"
 {% endfor %}
 
 <div class="section-title col-md-12 mt-4">
-    <h2 id="SideDish">Side Dishes</h2>
+    <h2 id="SideDish">Side Dishes ({{ side_pages.size }})</h2>
 </div>
 {% for post in side_pages %}
 {% if post.title != null %}
@@ -53,7 +53,7 @@ permalink: "/categories.html"
 {% endfor %}
 
 <div class="section-title col-md-12 mt-4">
-    <h2 id="Dessert">Desserts</h2>
+    <h2 id="Dessert">Desserts ({{ dessert_pages.size }})</h2>
 </div>
 {% for post in dessert_pages %}
 {% if post.title != null %}
@@ -64,7 +64,7 @@ permalink: "/categories.html"
 {% endfor %}
 
 <div class="section-title col-md-12 mt-4">
-    <h2 id="Other">Others</h2>
+    <h2 id="Other">Others ({{ other_pages.size }})</h2>
 </div>
 {% for post in other_pages %}
 {% if post.title != null %}
