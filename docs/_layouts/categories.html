@@ -6,18 +6,72 @@ permalink: "/categories.html"
 
 <div class="row listrecent">
 {% for category in site.categories %}
+    {% if category[0] == "Appetizer" %}
+        {% assign appitizer_pages = category[1] %}
+    {% elsif category[0] == "MainDish" %}
+        {% assign main_pages = category[1] %}
+    {% elsif category[0] == "SideDish" %}
+        {% assign side_pages = category[1] %}
+    {% elsif category[0] == "Dessert" %}
+        {% assign dessert_pages = category[1] %}
+    {% else category[0] == "Other" %}
+        {% assign other_pages = category[1] %}
+    {% endif %}
+{% endfor %}
+
 <div class="section-title col-md-12 mt-4">
-<h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
+    <h2 id="Appetizer">Appetizers</h2>
 </div>
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
+{% for post in appitizer_pages %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
 {% include postbox.html %}
 {% endif %}
 {% endif %}
 {% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+
+<div class="section-title col-md-12 mt-4">
+    <h2 id="MainDish">Main Dishes</h2>
+</div>
+{% for post in main_pages %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
 {% endfor %}
+
+<div class="section-title col-md-12 mt-4">
+    <h2 id="SideDish">Side Dishes</h2>
+</div>
+{% for post in side_pages %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<div class="section-title col-md-12 mt-4">
+    <h2 id="Dessert">Desserts</h2>
+</div>
+{% for post in dessert_pages %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<div class="section-title col-md-12 mt-4">
+    <h2 id="Other">Others</h2>
+</div>
+{% for post in other_pages %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
 </div>
