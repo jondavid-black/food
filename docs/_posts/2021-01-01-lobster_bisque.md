@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-We all fell in love with lobster bisque while visiting Mom in Connecticut for Thanksgiving in 2015.  We haven't found anything like it here in the south, so when I found lobster tails on sale at the grocery, we had to give it a try. I did my best to follow this Bobby Flay recipe and it turned out pretty good.  Hope you enjoy it too.
+We all fell in love with lobster bisque while visiting Mom in Connecticut for Thanksgiving in 2015.  We haven't found anything like it here in the south, so when I found lobster tails on sale at the grocery, we had to give it a try. I tried a couple different recipes and experimented with a few tweaks. We ended up with what we think is a rich, smooth, delicious bisque.  Hope you enjoy it too.
 
 ## Ingredients
 - Bisque
