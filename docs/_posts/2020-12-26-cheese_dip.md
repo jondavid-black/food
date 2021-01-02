@@ -20,7 +20,7 @@ This cheese dip always manages to please a crowd.  I think this is the first tim
 - 2 cans Rotel (original)
 - 1/2 tsp chili powder (to taste)
 - 1/2 tsp ground cumin (to taste)
-- 1/4 cub sliced jalapenos from a jar with a little juice (optional)
+- 1/4 cup sliced jalapenos from a jar with a little juice (optional)
 - Tortilla chips
 
 ## Instructions
