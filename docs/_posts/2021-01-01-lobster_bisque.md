@@ -52,7 +52,7 @@ We all fell in love with lobster bisque while visiting Mom in Connecticut for Th
 1. Pour in the lobster stock you've made through a strainer to ensure no bits of shell get into the bisque.
 1. Reduce heat and simmer for about 30 minutes.  The liquid should have thickened slightly.
 1. Remove from the heat.  Blend with a stick blender until smooth.  You can do this by transferring to a regular blender, but it is much less messy to use a stick blender.
-1. Return the blended mixture to the low heat and add in the heavy cream.  Still well to combine.
+1. Return the blended mixture to the low heat and add in the heavy cream.  Stir well to combine.
 1. In a separate pan, melt 2 tbsp butter.  Add 2 cloves garlic and cook for 1 minute.
 1. Add your chopped lobster meat and saute for about 1 minute or until warned through.
 1. Pour the lobster and garlic butter into the bisque and stir.
