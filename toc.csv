@@ -29,13 +29,14 @@ Section, Level, Title, ContentFile
 3.17, 3, Carnitas, docs/_posts/2021-01-01-carnitas.md
 4, 2, Side Dishes,
 4.1, 3, Holiday Dressing, docs/_posts/2020-12-26-holiday_dressing.md
-4.2, 3, Hot Corn, docs/_posts/2020-12-26-hot_corn.md
-4.3, 3, Sweet Potato Casserole, docs/_posts/2020-12-26-sweet_potato_casserole.md
-4.4, 3, Posh Squash, docs/_posts/2020-12-26-posh_squash.md
-4.5, 3, Cranberry Relish, docs/_posts/2020-12-26-cranberry_relish.md
-4.6, 3, Cornbread Salad, docs/_posts/2020-12-26-cornbread_salad.md
-4.7, 3, Broccoli Salad, docs/_posts/2020-12-26-broccoli_salad.md
-4.8, 3, Blue Cheese Cole Slaw, docs/_posts/2020-12-26-blue_cheese_cole_slaw.md
+4.2, 3, French Braised Peas, docs/_posts/2022-12-26-French-Braised-Peas.md
+4.3, 3, Hot Corn, docs/_posts/2020-12-26-hot_corn.md
+4.4, 3, Sweet Potato Casserole, docs/_posts/2020-12-26-sweet_potato_casserole.md
+4.5, 3, Posh Squash, docs/_posts/2020-12-26-posh_squash.md
+4.6, 3, Cranberry Relish, docs/_posts/2020-12-26-cranberry_relish.md
+4.7, 3, Cornbread Salad, docs/_posts/2020-12-26-cornbread_salad.md
+4.8, 3, Broccoli Salad, docs/_posts/2020-12-26-broccoli_salad.md
+4.9, 3, Blue Cheese Cole Slaw, docs/_posts/2020-12-26-blue_cheese_cole_slaw.md
 5, 2, Desserts, 
 5.1, 3, Strawberry Pretzel Salad, docs/_posts/2020-12-26-strawberry_pretzel_salad.md
 5.2, 3, Pumpkin Cheesecake, docs/_posts/2020-12-26-pumpkin_cheesecake.md
