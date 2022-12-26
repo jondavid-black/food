@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easy Beef Stroganoff"
+title:  "Stroganoodle"
 author: JD Black
 categories: [MainDish]
 tags: [American, Beef]
@@ -9,7 +9,7 @@ featured: false
 hidden: false
 ---
 
-We've only recently started making this recipe. This is a quick and easy recipe, and the boys finally transitioned into stroganoff lovers, so it has become a regular in our house.  Of course there are lots of opportunities to get fancy by either using thin sliced steak, slow cooked roast, or making a "proper" cream sauce, but we enjoy this easy version just as much.  I hope you enjoy it as much as we do!  
+We've only recently started making this recipe. This is a quick and easy recipe, and the boys finally transitioned into stroganoff lovers, so it has become a regular in our house. Of course there are lots of opportunities to get fancy by either using thin sliced steak, slow cooked roast, or making a "proper" cream sauce, but we enjoy this easy version just as much. We also acknowledge this isn't a "real stroganoff" so we renamed it to stroganoodle. I hope you enjoy it as much as we do!  
 
 ## Ingredients
 - 1 lb lean ground beef
