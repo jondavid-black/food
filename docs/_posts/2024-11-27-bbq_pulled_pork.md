@@ -17,8 +17,8 @@ This is a simple recipe that results in pulled pork as good or better than what 
 - Rub (your choice, I like [mine](/bbq_dry_rub))
 - Hamburger Buns
 - Coleslaw
-- Sweet & Smokey BBQ Sauce
-- Spicy BBQ Sauce
+- Sweet & Smokey BBQ Sauce (Sticky Fingers Memphis Style)
+- Spicy BBQ Sauce (Rendezvous Hot Sauce)
 - Hickory wood chips
 
 ## Instructions
