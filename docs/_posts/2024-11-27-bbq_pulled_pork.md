@@ -12,7 +12,7 @@ hidden: false
 This is a simple recipe that results in pulled pork as good or better than what you get at the restaurant.  I use a cheap electric box smoker for this.  I know there's a huge market in crazy expensive "grill-ware", but I'm prefer keeping things simple and cheap like the BBQ gods intended.  Using an electric smoker takes out all the stress of maintaining temps and let's me sleep through the night when I'm doing BBQ.
 
 ## Ingredients
-- 1 boston butt (bone in or out, doesn't matter)
+- 1 Boston butt (bone in or out, doesn't matter)
 - 1 cup beef bone broth
 - Rub (your choice, I like [mine](/bbq_dry_rub))
 - Hamburger Buns
