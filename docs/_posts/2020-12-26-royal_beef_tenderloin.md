@@ -36,7 +36,7 @@ This recipe comes from the Southern Living Christmas Cook Book that my Nana gave
 1. Place tenderloin and royal butter in refrigerator for 8 hours, turning the tenderloin occasionally.
 1. Remove tenderloin from marinade (reserve marinade), and place on a rack in a shallow roasting pan.  
 1. Bring marinade to a boil in a small sauce pan and set aside.
-1. Bake tenderloin  at 400 for 45 to 55 minutes or until internal temperature reaches 145 (medium rare), basting occasionally with marinade.
+1. Bake tenderloin  at 400 for 45 to 55 minutes or until internal temperature reaches 132 (medium rare), basting occasionally with marinade.
 1. Let tenderloin rest 10 minutes before slicing.
 1. Serve Royal Butter (warmed to room temperature) with the tenderloin.
 
