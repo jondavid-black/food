@@ -58,4 +58,4 @@ The below recipe borrows heavily from Joy but pushes things up a notch.
 1. Pull the chicken into bite size portions, removing all skin and bones.
 1. Add the pulled chicken back to the Jambalaya and combine well.
 1. Slice the green onions.
-1. Serve the Jambalaya in a bowl with green onion as a top garnish.  Offer Louisiana hot sause for additional heat and flavor.
+1. Serve the Jambalaya in a bowl with green onion as a top garnish.  Offer Louisiana hot sauce for additional heat and flavor.
