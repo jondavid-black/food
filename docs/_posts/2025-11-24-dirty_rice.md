@@ -42,8 +42,8 @@ I hope you find this as tasty as we did.
 1. Once the rice is done, let cool for a few minutes and then fold in the parsley.  Set aside.
 1. Dice the onions and bell peppers.  Slice the celery.
 1. Brown the ground beef and hot sausage in a good size pan.
-1. Add the vegatable and cook until they start to soften, about 5 minutes.
+1. Add the vegetable and cook until they start to soften, about 5 minutes.
 1. Mix in garlic, cayenne, thyme, oregano, salt, pepper, and cajun seasoning.  Cook for 1-2 minutes.
-1. Sift in the flour and stir well to combine, coatign the meat and vegatables.  Cook for another 1-2 minutes.
+1. Sift in the flour and stir well to combine, coating the meat and vegetables.  Cook for another 1-2 minutes.
 1. Add the remaining chicken broth and bay leaves.  Scrape and combine any fond from the pan.  Simmer for another 5-10 minutes.
 1. Fold in rice and parley mixture.  Simmer for 5 more minutes and then serve.
