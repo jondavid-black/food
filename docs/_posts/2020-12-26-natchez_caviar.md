@@ -17,6 +17,7 @@ This is one of our favorites from the O'Keefe family's Cooking on the Coast cook
 - 1 1/2 cups onions, chopped fine
 - 1 cup green onions, chopped
 - 1/2 cup jalapeno peppers, chopped
+- 2 cups green peppers, chopped
 - 1 (4 oz) jar pimento, chopped and drained
 - Tortilla chips
 
